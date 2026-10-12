@@ -1,5 +1,5 @@
-# Healthcare Provider Dashboard
-An interactive healthcare analytics dashboard built in Power BI to track billing, treatment costs, insurance coverage, and departmental performance. Utilizes Power Query, DAX, and data visualization techniques to deliver actionable insights for healthcare decision-making.
+# Retail Sales Analytics Dashboard
+An interactive retail sales analytics dashboard built in Power BI to track billing, treatment costs, insurance coverage, and departmental performance. Utilizes Power Query, DAX, and data visualization techniques to deliver actionable insights for healthcare decision-making.
 
 <img width="1418" height="790" alt="image" src="https://github.com/user-attachments/assets/82f542b5-ae78-4712-becc-2a21507b7d1f" />
 
